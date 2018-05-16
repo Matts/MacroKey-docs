@@ -7,14 +7,7 @@ What if there was a mod that makes your life easier by allowing you to connect a
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Documentation:
    
+   getting-started
    links
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
