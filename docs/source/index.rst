@@ -8,6 +8,6 @@ What if there was a mod that makes your life easier by allowing you to connect a
 .. toctree::
    :maxdepth: 2
    :caption: Documentation:
-   
+
    getting-started
    links

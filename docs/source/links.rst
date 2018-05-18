@@ -2,14 +2,14 @@ Official Links
 ===============
 
 Endorsed Posts
-^^^^^^
-* `MacroKey on CurseForge`_ 
+^^^^^^^^^
+* `MacroKey on CurseForge`_
 * `MacroKey on Curse`_
 * `MacroKey on MCF`_
 * `MacroKey on PMC`_
 
 Download Mirrors
-^^^^^^
+^^^^^^^^^
 * `CurseForge Project Files`_
 
 .. _MacroKey on CurseForge: http://www.curseforge.com/projects/243479/
